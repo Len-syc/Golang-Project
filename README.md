@@ -1,3 +1,2 @@
 ## Golang Project
-*myself
-*
+*myself*
