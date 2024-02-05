@@ -1,2 +1,3 @@
 ## Golang Project
-*myself*
+*myself*  
+language:go
